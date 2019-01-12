@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffeeee;
+}
+
+#logo {
+  border: 0;
+  float: left;
+}
+
+div.container {
+  -moz-border-radius : 12px;
+  margin: 100px auto;
+  width: 550px;
+  overflow: auto;
+  border: 1px solid black;
+  padding: 0 15px;
+  background-color: white;
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: normal;
+  text-align: left;
+}
+
+div.container p, ul {
+  padding: 0;
+  padding-left: 138px;
+  margin: 10px 10px;
+}
+
+span.small-text {
+  font-weight: normal;
+  font-size: xx-small;
+}

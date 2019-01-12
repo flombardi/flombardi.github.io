@@ -1,0 +1,17 @@
+@import "page-common.css";
+
+body {
+  background-color: #eeffee;
+}
+
+h3 {
+    background-color: #42be64;
+}
+
+th {
+  background-color: #eeffee;
+}
+
+div.banner {
+  background-image: url(/images/slash.png);
+}

@@ -1,0 +1,17 @@
+@import "page-common.css";
+
+body {
+  background-color: #d5d5d5;
+}
+
+h3 {
+  background-color: #a0a0a0;
+}
+
+th {
+  background-color: #d5d5d5;
+}
+
+div.banner {
+  background-image: url(/images/trombi.png);
+}
